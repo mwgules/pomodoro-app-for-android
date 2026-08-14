@@ -1,0 +1,7 @@
+{
+  "name": "Pomodoro",
+  "description": "Özelleştirilebilir odaklanma süreleri, görev takibi ve detaylı istatistikler sunan modern Pomodoro uygulaması.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

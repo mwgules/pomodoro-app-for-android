@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Tomato Main Body (Red & White highlights) inside 66dp safe zone (21..87) -->
+    <!-- Tomato Stem / Leaves -->
+    <path
+        android:fillColor="#81C784"
+        android:pathData="M54,34 C54,34 50,26 44,27 C44,27 49,32 51,36 Z" />
+    <path
+        android:fillColor="#66BB6A"
+        android:pathData="M54,34 C54,34 58,26 64,27 C64,27 59,32 57,36 Z" />
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M52,35 C52,31 53,24 55,23 C56,23 55,30 54,35 Z" />
+    <path
+        android:fillColor="#2E7D32"
+        android:pathData="M54,36 C49,36 43,38 42,41 C46,40 51,39 54,38 C57,39 62,40 66,41 C65,38 59,36 54,36 Z" />
+
+    <!-- Tomato Body Base -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,37 C39,37 32,46 32,58 C32,71 42,80 54,80 C66,80 76,71 76,58 C76,46 69,37 54,37 Z" />
+
+    <!-- Inner Red Timer Ring -->
+    <path
+        android:fillColor="#D32F2F"
+        android:pathData="M54,40 C42,40 35,48 35,58 C35,69 43,77 54,77 C65,77 73,69 73,58 C73,48 66,40 54,40 Z" />
+
+    <!-- Timer Arc / Clock dial -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,43 C45.7,43 39,49.7 39,58 C39,66.3 45.7,73 54,73 C62.3,73 69,66.3 69,58 C69,49.7 62.3,43 54,43 Z M54,70 C47.4,70 42,64.6 42,58 C42,51.4 47.4,46 54,46 C60.6,46 66,51.4 66,58 C66,64.6 60.6,70 54,70 Z" />
+
+    <!-- Timer Clock Hands at 25 min mark -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M53,49 L55,49 L55,59 L61,63 L59.5,65 L53,60 Z" />
+</vector>
